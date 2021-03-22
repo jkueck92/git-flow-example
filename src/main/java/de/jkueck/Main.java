@@ -18,4 +18,8 @@ public class Main {
         return a - b;
     }
 
+    public int dif(int a, int b) {
+        return a / b;
+    }
+
 }
